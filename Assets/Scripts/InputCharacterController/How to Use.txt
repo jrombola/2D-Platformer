@@ -1,0 +1,15 @@
+Player controller requires:
+Componenets:
+2d box collider
+rigidbody 2d
+
+Scripts
+Dataholder -> holds scriptable object Player Data + RIgidbody2d
+jumpcheck
+physicsChecker
+rigGravity
+playerInput
+
+layers
+Ground
+add ground layer to ground object
